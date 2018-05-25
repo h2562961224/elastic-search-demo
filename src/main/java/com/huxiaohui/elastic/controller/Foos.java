@@ -1,4 +1,4 @@
-package com.huxiaohui.elastic;
+package com.huxiaohui.elastic.controller;
 import com.google.common.collect.Lists;
 
 import com.huxiaohui.elastic.dao.FooElasticDao;
